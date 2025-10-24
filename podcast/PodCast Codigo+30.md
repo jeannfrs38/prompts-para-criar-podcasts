@@ -52,3 +52,6 @@ _(Som de “deploy bem-sucedido”, seguido de trilha de encerramento leve e oti
 
 ---
 
+## Podcast em Audio:
+
+![[PodcastCodigo30.mpeg]]
